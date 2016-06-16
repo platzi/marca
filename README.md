@@ -7,7 +7,7 @@ www.platzi.com/marca
 
 ***
 
-###Créditos de modelo de marca
+###Créditos del "TEMPLATE"
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
