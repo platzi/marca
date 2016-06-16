@@ -2018,7 +2018,7 @@
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
-				content: 'View';
+				content: 'Conoce más';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: 400;
@@ -2463,9 +2463,8 @@
 /* Header */
 
 	#header {
-		background-color: #1f1815;
+		background-color: black;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;

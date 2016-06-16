@@ -472,7 +472,7 @@
 				border-radius: _size(border-radius);
 				border: solid 3px rgba(255,255,255,0.5);
 				color: #fff;
-				content: 'View';
+				content: 'Conoce más';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: _font(weight-bold);
@@ -897,9 +897,8 @@
 /* Header */
 
 	#header {
-		background-color:		_palette(accent2, bg);
 		background-attachment:	scroll,								fixed;
-		background-image:		url('images/overlay.png'),			url('../../images/bg.jpg');
+		background-color: black;
 		background-position:	top left,							top left;
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								auto 100%;
