@@ -2463,8 +2463,8 @@
 /* Header */
 
 	#header {
-		//background-color: black;
-		background: url();
+		/*background-color: black;*/
+		background: url("https://raw.githubusercontent.com/Lopez089/juanlopezaragon.github.io/master/images/b0wrvpmkdr0-josue-bieri.jpg");
 		background-attachment: scroll,								fixed;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
