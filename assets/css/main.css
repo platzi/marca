@@ -1744,6 +1744,10 @@
 	header.major h2 {
 		font-size: 2em;
 	}
+	
+	header h1 {
+		font-family: 'Kaushan Script', cursive;
+	}
 
 /* Form */
 
