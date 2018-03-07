@@ -57,18 +57,18 @@
 /* Header */
 
 	#header {
-		background-image: url("../../images/bg.jpg");
+		background-image: url(" lalohrndz.github.io/images/IMG-20171021-WA0008.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 	}
 
 		#header h1 {
-			color: #ffffff;
+			color: #A52A2A;
 		}
 
 /* Footer */
 
 	#footer .icons a {
 		color: #ffffff;
-	}
+	}	
