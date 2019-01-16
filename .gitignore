@@ -1,0 +1,10 @@
+# Clases compiladas
+*.class
+# Mac OS X
+*.DS_Store
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+# Carpeta bin
+bin/*
