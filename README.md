@@ -1,4 +1,4 @@
-###Proyecto final de marca personal
+### Proyecto final de marca personal
 
 Encuentra cómo construir tu marca personal desde cero en:
 
@@ -7,7 +7,7 @@ www.platzi.com/marca
 
 ***
 
-###Créditos del "TEMPLATE"
+### Créditos del "TEMPLATE"
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
